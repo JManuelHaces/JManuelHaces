@@ -37,15 +37,6 @@
 
 ---
 
-## 🚀 Featured Projects  
-🔹 **[Model Serving System](https://github.com/JManuelHaces/Model_Serving_System)** - Scalable AI/ML model serving for production.  
-🔹 **[Pneumonia Detection with CNNs](https://github.com/JManuelHaces/CNN_PneumoniaDetection)** - Classifies pneumonia in X-ray images.  
-🔹 **[Non-Linear Models for Time Series](https://github.com/JManuelHaces/NonLinearModels-TimeSeries)** - MLP, CNN, RNN & CRNN for forecasting.  
-🔹 **Web Page Chatbot** - AI chatbot for real-time Q&A.  
-🔹 **YouTube Data Extraction** - NLP-based YouTube comments analysis.  
-
----
-
 ## 📩 Let's Connect!  
 💻 **Email**: jmanuelhaces@gmail.com   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-manuel-haces-lopez/)  
