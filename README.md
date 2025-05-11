@@ -11,7 +11,7 @@
 ---
 
 ## 💼 Work Experience  
-🔹 **Prompt Engineer | Seguritech (2024 - Present)**  
+🔹 **SR Prompt Engineer | Seguritech (2024 - Present)**  
 🔹 **Prompt Engineer | BeFra Group (Betterware) (2023 - 2024)**  
 🔹 **Jr Data Scientist | Sello Rojo (2022 - 2023)**  
 
