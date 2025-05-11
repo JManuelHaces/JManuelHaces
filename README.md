@@ -41,6 +41,6 @@
 💻 **Email**: jmanuelhaces@gmail.com   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-manuel-haces-lopez/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JManuelHaces)  
-[![My CV](https://img.shields.io/badge/My_CV-1E90FF?style=for-the-badge&logo=google-drive&logoColor=white)]([https://drive.google.com/file/d/1i16psGTLGKW2TxwO-HEmHVYNlIKcwGje/view?usp=sharing](https://drive.google.com/file/d/1tvhyZJ2qxRmYg-610IbjZDD_6vMe_52L/view?usp=sharing))  
+[![My CV](https://img.shields.io/badge/My_CV-1E90FF?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1tvhyZJ2qxRmYg-610IbjZDD_6vMe_52L/view?usp=sharing)  
 ---
 🚀 **Ready to build the future with AI?**
